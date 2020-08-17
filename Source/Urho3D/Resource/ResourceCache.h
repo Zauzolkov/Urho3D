@@ -27,6 +27,7 @@
 #include "../Core/Mutex.h"
 #include "../IO/File.h"
 #include "../Resource/Resource.h"
+#include "../Graphics/Material.h"
 
 namespace Urho3D
 {
